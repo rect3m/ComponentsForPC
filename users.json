@@ -1,0 +1,92 @@
+[
+  {
+    "userName": "ian.kautzer",
+    "password": "3j2aarl13bf50in",
+    "phoneNumber": "(924) 568-1234",
+    "address": "63946 Dorothea Keys",
+    "id": "b82dbbcc-7631-4a70-abc2-62bff2589de8",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "hank.mclaughlin",
+    "password": "tv1qf1377",
+    "phoneNumber": "464-164-5661",
+    "address": "80600 Nicholas Oval",
+    "id": "50090174-4722-44fa-8e80-fe7faa89b6e6",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "juliane.wisozk",
+    "password": "m9bdql80783",
+    "phoneNumber": "(006) 743-1074",
+    "address": "7360 Ortiz Ferry",
+    "id": "00daa637-6c3a-4fa8-888d-9b0876d8f98b",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "andrew.johns",
+    "password": "ff88u01paigfqm",
+    "phoneNumber": "085.785.8205",
+    "address": "207 Hane Gateway",
+    "id": "dc25231a-f06f-489a-bc34-7cb3e22a2805",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "essie.medhurst",
+    "password": "e0p1s66mg",
+    "phoneNumber": "973.935.7263",
+    "address": "8880 Claude Mill",
+    "id": "4377a0ea-fc81-443d-86ef-53878b16596f",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "issac.cummings",
+    "password": "3gv830gpmlx",
+    "phoneNumber": "(429) 912-9331",
+    "address": "0175 Hudson Viaduct",
+    "id": "ae9a56fb-11ff-4dca-ac4c-09d328eeebd5",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "marshall.erdman",
+    "password": "heji685kx97bk",
+    "phoneNumber": "(956) 011-7158",
+    "address": "3248 Purdy Orchard",
+    "id": "810fa758-7832-4841-991e-5421c18f8234",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "dennis.glover",
+    "password": "kvgmgzu5vk08m0",
+    "phoneNumber": "619.599.2789",
+    "address": "6868 Schmitt Green",
+    "id": "0d0e0f7e-9642-4c15-90dc-9450fa476470",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "colin.abshire",
+    "password": "ah6h1s4d2m",
+    "phoneNumber": "225.588.6377",
+    "address": "76760 Andrew Key",
+    "id": "82c219a6-1e3e-4ff4-a2c0-f8efd788e6ba",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "userName": "valentine.lockman",
+    "password": "7pctxmimt6l",
+    "phoneNumber": "658.656.4366",
+    "address": "85760 Merrilee Course",
+    "id": "5964cdcb-2845-4991-82e9-74dbe47914c0",
+    "errors": [],
+    "isValid": false
+  }
+]
