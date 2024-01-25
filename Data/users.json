@@ -1,0 +1,19 @@
+[
+  {
+    "role": "GENERAL",
+    "userName": "user1",
+    "password": "$2a$10$GbohAfVwcrkW9VXBV4xSzOtVFD3kxcb.nCdLqNl2m78ixWe9YYYYu",
+    "email": "example@mail.com",
+    "phoneNumber": "2619494198",
+    "address": "asdasdsad",
+    "id": "c8731acc-5846-4808-be9e-b46bc76a9625"
+  },
+  {
+    "role": "ADMIN",
+    "password": "7vplc67u7",
+    "email": "maxima.okon@gmail.com",
+    "phoneNumber": "052.166.2966",
+    "address": "5317 Beatty Harbor",
+    "id": "8400b4ed-0f28-45d4-95e8-a141b488339f"
+  }
+]
